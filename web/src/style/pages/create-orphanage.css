@@ -149,3 +149,24 @@
     border-radius: 0 20px 20px 0;
     border-left: 0;
   }
+
+  .confirm-button{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    margin-top: 50px;
+    background: #37c77f;
+    color: #fff;
+    width: 100%;
+    max-width: 238px;
+    border: 1px solid #a1e9c5;
+    padding: 13px;
+    border-radius: 14px;
+    height: 63px;
+    font-size: 25px;
+  }
+
+.confirm-button:hover{
+  background-color: rgb(10, 185, 104);
+  cursor:pointer;
+}
